@@ -1,7 +1,7 @@
 # AWS Account Setup Lab - Solution
 
-**Student Name:** France van Maanen
-**Date Completed:** 
+**Student Name:** [France van Maanen]
+**Date Completed:** [20 April]
 
 ---
 
@@ -12,8 +12,8 @@
 
 ### Notes:
 - Authenticator app used: [Google Authenticator]
-- MFA setup completed successfully: [Yes / No]
-- Backup codes saved: [Yes / No]
+- MFA setup completed successfully: [Yes]
+- Backup codes saved: [Yes]
 
 ---
 
@@ -43,9 +43,9 @@
 ![Account Alias](screenshots/account-alias.png)
 
 ### Account Details:
-- **Account Alias:** [your-alias-here]
-- **Sign-In URL:** `https://[your-alias].signin.aws.amazon.com/console`
-- **Tested successfully:** [Yes / No]
+- **Account Alias:** [france-ironhack-bootcamp]
+- **Sign-In URL:** `https://france-ironhack-bootcamp.signin.aws.amazon.com/console`
+- **Tested successfully:** [Yes]
 
 ---
 
