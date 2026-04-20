@@ -13,7 +13,7 @@
 ### Notes:
 - Authenticator app used: [Google Authenticator]
 - MFA setup completed successfully: [Yes]
-- Backup codes saved: [Yes]
+- Backup codes saved: [No]
 
 ---
 
@@ -63,8 +63,8 @@
 | [Other services...] | | | |
 
 ### Notes:
-- Any services approaching limits? [Yes / No - if yes, which ones?]
-- Any unexpected usage? [Yes / No - if yes, describe]
+- Any services approaching limits? [No]
+- Any unexpected usage? [Yes, current usage for AWS Glue is 40 requests]
 
 ---
 
@@ -73,21 +73,21 @@
 ### 1. Why is MFA important even for a personal learning account?
 
 **Your Answer:**
-[Write your answer here. Consider: What could happen if someone gained access to your account? What damage could they do? What costs could they incur?]
+[MFA is important because a credit card is connected to my AWS account. If the account gets hijacked it could incur unexpected costs in usage.]
 
 ---
 
 ### 2. What would happen if you left your root user unprotected?
 
 **Your Answer:**
-[Write your answer here. Think about: What access does root user have? What could an attacker do? How would you recover?]
+[Besides financial risks, attackers could take sensitive data S3 buckets and RDS databases and lose control of the account. They could hold it for ransom or misuse it. To recover I would suggest to remove all access keys related to the root user and delete all an regain control.]
 
 ---
 
 ### 3. How do billing alerts help prevent unexpected charges?
 
 **Your Answer:**
-[Write your answer here. Consider: When do you get notified? What actions can you take? Why is proactive monitoring important?]
+[It gives you a heads up on how many credits are already used and forecasts how much more will be used. This helps optimize and manage finances over time. Alerts can be adjusted per preference and provide you an overview on what could be adjusted to allocate resources efficiently.]
 
 ---
 
@@ -101,8 +101,8 @@
 ### 5. What is your account alias and why did you choose it?
 
 **Your Answer:**
-- **Alias:** [your-alias]
-- **Reasoning:** [Why did you choose this name? What makes it memorable and professional?]
+- **Alias:** [france-ironhack-bootcamp]
+- **Reasoning:** [I didn't really give it much thought. I think I just used my name and the suggestion as it was appropriate for what it is for and where would it be used.]
 
 ---
 
