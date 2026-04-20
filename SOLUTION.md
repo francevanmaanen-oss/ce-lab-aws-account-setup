@@ -1,7 +1,7 @@
 # AWS Account Setup Lab - Solution
 
-**Student Name:** [Your Name]  
-**Date Completed:** [Date]
+**Student Name:** France van Maanen
+**Date Completed:** 
 
 ---
 
@@ -11,7 +11,7 @@
 ![MFA Enabled](screenshots/mfa-enabled.png)
 
 ### Notes:
-- Authenticator app used: [Google Authenticator / Microsoft Authenticator / Authy]
+- Authenticator app used: [Google Authenticator]
 - MFA setup completed successfully: [Yes / No]
 - Backup codes saved: [Yes / No]
 
