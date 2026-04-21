@@ -31,9 +31,9 @@
 ![SNS Confirmed](screenshots/sns-confirmed.png)
 
 ### Configuration Details:
-- Alert threshold: $[amount]
-- Email confirmed: [Yes / No]
-- Additional thresholds created (bonus): [Yes / No - if yes, list amounts]
+- Alert threshold: $[10]
+- Email confirmed: [Yes]
+- Additional thresholds created (bonus): [No]
 
 ---
 
@@ -73,14 +73,14 @@
 ### 1. Why is MFA important even for a personal learning account?
 
 **Your Answer:**
-[MFA is important because a credit card is connected to my AWS account. If the account gets hijacked it could incur unexpected costs in usage.]
+[MFA is important because a credit card is connected to my AWS account. If the account gets hijacked it could incur unexpected costs in usage. Furthermore, MFA dramatically reduces the likeliness for an account to be compromised. ]
 
 ---
 
 ### 2. What would happen if you left your root user unprotected?
 
 **Your Answer:**
-[Besides financial risks, attackers could take sensitive data S3 buckets and RDS databases and lose control of the account. They could hold it for ransom or misuse it. To recover I would suggest to remove all access keys related to the root user and delete all an regain control.]
+[Besides financial risks, attackers could take sensitive data S3 buckets and RDS databases and lose control of the account. They could hold it for ransom or misuse it and increase risk to user fraud. To recover I would suggest to remove all access keys related to the root user and delete all to regain control. ]
 
 ---
 
@@ -94,7 +94,7 @@
 ### 4. What threshold did you set for your billing alert and why?
 
 **Your Answer:**
-[Write your answer here. Explain: Why did you choose this amount? Is it appropriate for your usage? Would you set multiple thresholds?]
+[For the moment, I have set $10 as a threshold as it is a small project. But generally, setting a threshold depends on the fluctuations of costs therefore, the amount but set according to average usage to prevent spam mail every 6 hours for an amount that is below your budget.]
 
 ---
 
@@ -102,7 +102,7 @@
 
 **Your Answer:**
 - **Alias:** [france-ironhack-bootcamp]
-- **Reasoning:** [I didn't really give it much thought. I think I just used my name and the suggestion as it was appropriate for what it is for and where would it be used.]
+- **Reasoning:** [I didn't really give it much thought. I think I just used my name and the suggestion as it was appropriate for what it is for and where would it be used at the moment.]
 
 ---
 
