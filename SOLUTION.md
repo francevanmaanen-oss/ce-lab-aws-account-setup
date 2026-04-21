@@ -58,9 +58,9 @@
 
 | Service | Current Usage | Free Tier Limit | Status |
 |---------|--------------|-----------------|--------|
-| EC2 | [X hours / 750 hours] | 750 hours/month | [Green/Yellow/Red] |
-| S3 | [X GB / 5 GB] | 5 GB | [Green/Yellow/Red] |
-| [Other services...] | | | |
+| AWS Key Management Sevice | 1 request | 750 hours/month | [Green/Yellow/Red] |
+| AWS Glue | 40 requests | 5 GB | [Green/Yellow/Red] |
+| [Amazon Simple Queue Service] | 1 request | | |
 
 ### Notes:
 - Any services approaching limits? [No]
