@@ -58,9 +58,10 @@
 
 | Service | Current Usage | Free Tier Limit | Status |
 |---------|--------------|-----------------|--------|
-| AWS Key Management Sevice | 1 request | |  |
-| AWS Glue | 40 requests | | |
-| Amazon Simple Queue Service | 1 request | | |
+| AWS Key Management Sevice | 1 request | 20 000 requests |  |
+| AWS Glue | 40 requests | 1 000 000 requests | |
+| Amazon Simple Queue Service | 1 request | 1 000 000 requests | |
+| Amazon Simple Notification Service | 1 request | 1 000 000 requests | |
 
 ### Notes:
 - Any services approaching limits? [No]
@@ -109,7 +110,7 @@
 ### 6. What services are you currently using according to the Free Tier dashboard?
 
 **Your Answer:**
-[List the services you're using and their current usage levels. Are you surprised by any usage?]
+[According to the dashboard, I am using AWS Key Management Sevice, AWS Glue, Amazon Simple Queue Service, and Amazon Simple Notification Service. What surprised me most was AWS glue as it already used up 40 requests when I haven't really used the console much. ]
 
 ---
 
