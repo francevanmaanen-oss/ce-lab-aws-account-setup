@@ -151,19 +151,19 @@
 
 **What was the most challenging part of this lab?**
 
-[Your answer]
+[The dashboard updates from AWS and the content of the lab itself as it is continuously changing behavior in the AWS environment, the steps are not all too clear.]
 
 ---
 
 **What would you do differently next time?**
 
-[Your answer]
+[Take my time to really go through it thoroughly and not rush my work.]
 
 ---
 
 **What security practices will you implement going forward?**
 
-[Your answer]
+[Stop using rootuser and instead switch to a specific user for daily tasks and setup MFA for all users.]
 
 ---
 
